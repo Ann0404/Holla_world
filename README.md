@@ -1,3 +1,2 @@
-# Holla_world
-Great being here today!!!!
-What about you?
+*This is the practice repository created and merged to the local repository using Git command*  
+
